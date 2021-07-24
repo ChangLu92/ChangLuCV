@@ -1,31 +1,32 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chang Lu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Maastricht University
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, data analysis, bioinformatics
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bioinformatics
+- Cardiovascular disease
+- biomedical data analysis
+- biological image processing
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in CARIM
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
