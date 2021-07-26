@@ -10,11 +10,11 @@ role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Maastricht University
-  url: https://www.stanford.edu/
+- name: FHML, Maastricht University
+  url: https://www.maastrichtuniversity.nl/about-um/faculties/faculty-health-medicine-and-life-sciences
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, data analysis, bioinformatics
+bio: My research interests include machine learning and image processing in biomedital area
 
 # Interests to show in About widget
 interests:
@@ -24,17 +24,17 @@ interests:
 - biological image processing
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in CARIM
-    institution: Maastricht University
-    year: 2017
-  - course: MEng in Department of Computer Science
-    institution: Southwest University
-    year: 2014
-  - course: BSc in Department of Computer Science
-    institution: Jiangxi Normal University
-    year: 2010
+# education:
+#   courses:
+#   - course: PhD in CARIM
+#     institution: Maastricht University
+#     year: 2017
+#   - course: MEng in Department of Computer Science
+#     institution: Southwest University
+#     year: 2014
+#   - course: BSc in Department of Computer Science
+#     institution: Jiangxi Normal University
+#     year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,9 +70,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+Chang Lu is a PhD student of bioinformatics at the CARIM, Maastricht University. Her research interests include application of machine learning and image processing in biomedital data/images, intergration of multi-Omics data, transcriptomic and metabolomic data analysis.
 
-Chang Lu is a PhD student of bioinformatics at the CARIM, Maastricht University. Her research interests include 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
